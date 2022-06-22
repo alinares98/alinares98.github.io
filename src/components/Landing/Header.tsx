@@ -24,8 +24,8 @@ const Main = () => {
             variants={fadeInUp}
             className="mt-3 mb-6 md:mb-8 sm:w-9/12  text-gray-900 dark:text-gray-300 md:w-10/12 lg:w-full max-w-2xl text-base md:text-lg font-medium "
           >
-            I&apos;m a software developer building beautiful interfaces and accessible applications. Welcome to my
-            personal slice of the internet. I&apos;m glad you&apos;re here!
+            I&apos;m a computer engineer with experience in cybersecurity. Welcome to my personal slice of the internet.
+            I&apos;m glad you&apos;re here!
           </motion.p>
           <motion.a
             variants={fadeInUp}

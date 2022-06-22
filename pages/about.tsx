@@ -27,33 +27,19 @@ const About: NextPage = () => {
               <h3 className="pt-4 text-2xl text-gray-900  dark:text-gray-200 md:text-3xl font-bold leading-8 tracking-tight">
                 Alberto Linares
               </h3>
-              <div className="md:text-lg text-gray-800  dark:text-gray-400 mb-2 md:mt-1">Software Developer</div>
+              <div className="md:text-lg text-gray-800  dark:text-gray-400 mb-2 md:mt-1">Computer Engineer</div>
               <Icons />
             </div>{' '}
             <div className="font-normal lg:pt-4 pb-8 lg:col-span-2 text-base sm:w-9/12 md:w-10/12 mx-auto  lg:mx-0">
               <motion.div variants={stagger}>
                 <motion.p variants={fadeInUp} className="mb-4">
-                  Hello! I&apos;m Pranav, a software developer based in Ottawa, CA🍁.
+                  Hello! 👋 I&apos;m Alberto, a computer engineer with experience in cybersecurity.
                 </motion.p>
                 <motion.p variants={fadeInUp} className="mb-4">
-                  I’m a self-taught developer working on all things front-end. I have experience designing and
-                  developing applications for the web, from simple landing pages to progressive web applications.
+                  I am a self-taught developer working on all things related to cybersecurity. I have experience
+                  creating tools to automate tasks, developing web applications and exploiting host, web or network
+                  vulnerabilities.
                 </motion.p>
-                <motion.p variants={fadeInUp} className="mb-4">
-                  Currently, I&apos;m a software engineer at{' '}
-                  <a
-                    className="text-indigo-600 hover:text-indigo-800 focus:text-indigo-800 dark:text-indigo-500 dark:hover:text-indigo-700 dark:focus:text-indigo-700"
-                    target="_blank"
-                    rel="noreferrer"
-                    href="https://www.gowalnut.com/"
-                  >
-                    Walnut Insurance
-                  </a>{' '}
-                  focused on bringing affordable life insurance to millenials. I aspire toward a career that will allow
-                  me to build inclusive and accessible applications through carefully crafted code and user-centric
-                  design that result in engaging experiences.
-                </motion.p>
-
                 <motion.p variants={fadeInUp} className="mb-4">
                   When I’m not in front of a computer screen, I am probably working out, riding my bike, or trying out a
                   new recipe in the kitchen.
@@ -63,17 +49,17 @@ const About: NextPage = () => {
                 </motion.p>
                 <motion.ul variants={fadeInUp} className="md:flex ">
                   <div>
-                    <li className="mb-0.25">▸ React</li>
-                    <li className="mb-0.25">▸ Vue</li>
-                    <li className="mb-0.25">▸ TypeScript</li>
-                    <li className="mb-0.25">▸ JavaScript</li>
+                    <li className="mb-0.25">▸ Python</li>
+                    <li className="mb-0.25">▸ Nmap</li>
+                    <li className="mb-0.25">▸ Nessus</li>
+                    <li className="mb-0.25">▸ BurpSuite</li>
                   </div>
 
                   <div className="md:ml-20">
-                    <li className="mb-0.25">▸ Firebase</li>
-                    <li className="mb-0.25">▸ GraphQL</li>
-                    <li className="mb-0.25">▸ Semantic HTML</li>
-                    <li className="mb-0.25">▸ (S)CSS</li>
+                    <li className="mb-0.25">▸ Elasticsearch</li>
+                    <li className="mb-0.25">▸ Docker</li>
+                    <li className="mb-0.25">▸ TypeScript</li>
+                    <li className="mb-0.25">▸ Oracle/MySQL</li>
                   </div>
                 </motion.ul>
               </motion.div>{' '}
